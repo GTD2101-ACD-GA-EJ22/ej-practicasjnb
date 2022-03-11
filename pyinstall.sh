@@ -5,5 +5,3 @@
 # Activación: chmod +x pylibinstall.sh
 
 pip install pandas
-pip install openpyxl
-pip install XlsxWriter
